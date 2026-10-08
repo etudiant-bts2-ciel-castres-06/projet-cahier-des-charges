@@ -13,5 +13,5 @@ panne.
 - **exigence 4 :** Le système doit respecter un délais lors de la panne d'un serveur
 - **Exigence 5 :** Le technicien doit pouvoir consulter l’état des serveurs.
 - **Exigence 9:** Le système doit contenir une Patate 
-- **Exigence 10 :** Si pannes changer de serveur.
+- **Exigence 10 :** Si panne changer de serveur.
 - **Exigence 13 :** Si panne sur le deuxième serveur, passer au troisième
