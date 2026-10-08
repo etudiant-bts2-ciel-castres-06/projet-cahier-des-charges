@@ -12,3 +12,4 @@ panne.
 - **Exigence 3 :** L'email doit contenir le nom du serveur et l'heure de la panne.
 - **exigence 4 :** Le système doit respecter un délais lors de la panne d'un serveur
 - **Exigence 10 :** Si pannes, changer de serveur.
+- **Exigence 11 :** Le technicien doit pouvoir consulter l’état des serveurs.
