@@ -24,3 +24,5 @@ panne.
                                                                                                                                                                                                  
                                                                                                                                                                                                  
                                                                                                                                                                                                  
+- **Exigence 10 :** Si panne changer de serveur.
+- **Exigence 13 :** Si panne sur le deuxième serveur, passer au troisième
