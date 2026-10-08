@@ -16,3 +16,4 @@ panne.
 - **Exigence 10 :** Si pannes changer de serveur.
 - **Exigence 10 :** Si panne changer de serveur.
 - **Exigence 13 :** Si panne sur le deuxième serveur, passer au troisième **Et alerter le responsable de service**
+- **Exigence 14 :** Prout
