@@ -10,4 +10,5 @@ panne.
 - **Exigence 1 :** Le système doit détecter la panne d'un serveur via une sonde SNMP.
 - **Exigence 2 :** Le système doit envoyer un email au technicien responsable.
 - **Exigence 3 :** L'email doit contenir le nom du serveur et l'heure de la panne.
+- **exigence 4 :** Le système doit respecter un délais lors de la panne d'un serveur
 - **Exigence 10 :** Si pannes, changer de serveur.
